@@ -6,7 +6,7 @@ package com.nk.test.consumer;
  */
 public class App 
 {
-    public static void main( String[] args )
+    public static void main( String[] argsaa )
     {
         System.out.println( "Hello World!" );
     }
